@@ -14,9 +14,20 @@ Answer some quetion, then enjoy writing your component !
 
 ## development
 
+developing something with example server
+
 ```shell
 npm start
 ```
+
+## test
+
+writing delightful unit test with [jest](https://facebook.github.io/jest/)
+
+```
+npm run test:coverage
+```
+
 
 ### build library
 
